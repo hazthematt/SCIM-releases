@@ -14,12 +14,15 @@ Games or Roberts Space Industries.
 Download published packages from [Releases](https://github.com/hazthematt/SCIM-releases/releases).
 Read the notes for the specific version before installing or updating.
 
-**Alpha 2 (`0.1.0-alpha.2`) is available:** [download packages and read release notes](https://github.com/hazthematt/SCIM-releases/releases/tag/v0.1.0-alpha.2).
+**Alpha 3 (`0.1.0-alpha.3`) is available:** [download packages and read release notes](https://github.com/hazthematt/SCIM-releases/releases/tag/v0.1.0-alpha.3).
 
 The installer, portable ZIP, tester notes, checksums, and build manifest are
 published. All five downloads were verified without a GitHub login.
-Alpha 2 is an unsigned Windows x64 prerelease. Updates remain manual; no automatic
-updater or update feed is included.
+Alpha 3 is an unsigned Windows x64 prerelease. Updates remain manual; in-app
+update checking and assisted installation are not included.
+
+The [Alpha 2 release](https://github.com/hazthematt/SCIM-releases/releases/tag/v0.1.0-alpha.2)
+remains available with its original assets and notes.
 
 | Package | Getting started |
 | --- | --- |
