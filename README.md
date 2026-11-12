@@ -14,15 +14,21 @@ Games or Roberts Space Industries.
 Download published packages from [Releases](https://github.com/hazthematt/SCIM-releases/releases).
 Read the notes for the specific version before installing or updating.
 
-**Alpha 3 (`0.1.0-alpha.3`) is available:** [download packages and read release notes](https://github.com/hazthematt/SCIM-releases/releases/tag/v0.1.0-alpha.3).
+**Alpha 5 (`0.1.0-alpha.5`) is available:** [download packages and read release notes](https://github.com/hazthematt/SCIM-releases/releases/tag/v0.1.0-alpha.5).
 
 The installer, portable ZIP, tester notes, checksums, and build manifest are
-published. All five downloads were verified without a GitHub login.
-Alpha 3 is an unsigned Windows x64 prerelease. Updates remain manual; in-app
-update checking and assisted installation are not included.
+published. All five downloads were verified without a GitHub login, including
+matching every downloaded size and SHA-256 hash against the accepted artifacts.
+Alpha 5 is an unsigned Windows x64 prerelease. Updates remain manual; no update
+feed is enabled by this release.
 
-The [Alpha 2 release](https://github.com/hazthematt/SCIM-releases/releases/tag/v0.1.0-alpha.2)
-remains available with its original assets and notes.
+The Alpha 3 to Alpha 5 in-place upgrade was validated with populated synthetic
+data on Windows 11. Back up your data first and read the release notes for the
+tested scope and other-version upgrade limits.
+
+The [Alpha 3 release](https://github.com/hazthematt/SCIM-releases/releases/tag/v0.1.0-alpha.3)
+and [Alpha 2 release](https://github.com/hazthematt/SCIM-releases/releases/tag/v0.1.0-alpha.2)
+remain available with their original assets and notes.
 
 | Package | Getting started |
 | --- | --- |
